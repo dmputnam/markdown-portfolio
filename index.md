@@ -2,5 +2,5 @@
 layout: default
 ---
 
-{% include 01-dmputnam.md %}
+{% include 01-name.md %}
 
